@@ -1,0 +1,11 @@
+name: SimpleTab
+version: '${project.version}'
+main: dev.upioti.tab.Main
+api-version: 1.19
+authors: [ Upioti ]
+description: Simple tab plugin
+commands:
+  tabreload:
+    description: "Reloads config"
+
+
